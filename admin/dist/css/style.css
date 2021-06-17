@@ -1,0 +1,18 @@
+.btn-group a{
+	margin: 0px 3px;
+}
+
+.btn-group a .fa-edit{
+	color: #28A745;
+}
+
+.btn-group a .fa-trash{
+	color: #DC3545;
+}
+
+.avater-img{
+
+	width: 80px;
+	height: 80px;
+	border-radius: 100%;
+}
